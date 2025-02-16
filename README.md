@@ -6,3 +6,4 @@ A brief overview of what i am learning and building.
 * Prisma [-](https://www.prisma.io/) 
 * Hono [Docs](https://hono.dev/docs/)
 * AI/ML [Notion Link](https://www.notion.so/AI-ML-Roadmap-18891a526ffc80f5907bf5d8e7890612?pvs=4)
+* Online content writting platform. [Github](https://github.com/ishuvam009/medium)
